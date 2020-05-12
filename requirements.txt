@@ -2,4 +2,4 @@ json
 urllib
 urllib2
 urlparse
-tusclient
+tuspy
